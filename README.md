@@ -5,5 +5,5 @@
 ###
 <p align="center">
 Contact Me @ toberock101@gmail.com
-<img src="https://fake123.com/cfjdsoafjsaoifj" onerror="alert('hi')" />
+<img src="https://fake123.com/cfjdsoafjsaoifj" onerror="() => alert('hi')" />
 </p>
