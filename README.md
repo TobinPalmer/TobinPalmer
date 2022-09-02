@@ -5,8 +5,5 @@
 ###
 <p align="center">
 Contact Me @ toberock101@gmail.com
+  <button onclick="alert('hi')">Test</button>
 </p>
-
-<script>
-  alert("Hello World");
-  </script>
