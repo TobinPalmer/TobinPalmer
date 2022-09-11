@@ -22,7 +22,7 @@ graph TD;
     id324[Javascript] --> id5[Javascript];
     id5[Javascript] --> id11[Javascript];
     id33[Javascript] --> id22[Javascript];
-    id24[Javascript] --> id14[Javascript];
+    id22[Javascript] --> id33[Javascript];
     id14[Javascript] --> id21[Javascript];
     id1[Javascript] --> id32[Javascript];
     id2[Javascript] --> id4[Javascript];
