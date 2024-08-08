@@ -1,2 +1,2 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tobinpalmer&theme=transparent&layout=donut&hide=vim&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=tobinpalmer&count_private=true&show_icons=true&theme=transparent)
+My skills:
+![image](https://github.com/user-attachments/assets/e87de450-5e7f-4a53-928d-b4c418019bb3)
