@@ -1,1 +1,1 @@
-Junior at Santa Monica High School.
+Senior at Santa Monica High School.
